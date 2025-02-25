@@ -2,17 +2,17 @@
 
 This repository provides code and resources for implementing dynamic configurations of transformer models, focusing on T5 and BART architectures. The objective is to explore dynamic model configuration techniques to enhance the adaptability and efficiency of transformer-based models.
 
-##Overview
+## Overview
 The project involves utilizing transformer models to dynamically adjust their configurations for various natural language processing tasks. By modifying aspects such as layer depth, attention heads, and feedforward dimensions, the models can be tailored to specific requirements, potentially improving performance and computational efficiency.
 
-##Dependencies
+## Dependencies
 
 - Python 3.6 or higher
 - PyTorch
 - Transformers library from Hugging Face
 - Jupyter Notebook
 
-##Project Description
+## Project Description
 
 The repository includes Jupyter Notebooks demonstrating dynamic configurations with T5 and BART models:
 
